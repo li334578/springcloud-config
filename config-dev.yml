@@ -1,1 +1,2 @@
-# dev
+config:  
+  info: config-dev.yml file is ok, version = 11
